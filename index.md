@@ -1,8 +1,8 @@
 # Colin Hermack's First CS193 Homework
 
--Learning git
--Learning terminal commands
--Learning other useful programming skills
+- Learning git
+- Learning terminal commands
+- Learning other useful programming skills
 
 
 
